@@ -1,0 +1,4 @@
+/node_modules
+.idea
+pakage-lock.json
+/dist
